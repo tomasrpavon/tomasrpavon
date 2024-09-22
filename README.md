@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🙋🏻‍♂️ Introducing Myself
 
-<!--
-**tomasrpavon/tomasrpavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Beige and White Modern LinkedIn Background Photo](https://github.com/user-attachments/assets/b513b890-2e1e-4a13-b2af-3d65148664db)
 
-Here are some ideas to get you started:
+Hello, I'm Tomas, a data analyst who seeks to improve day by day in the world of data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Querying data using SQL.
+- Generate reports and perform data analysis using SQL.
+- Developing dashboards on Power BI.
+- Data analysis and reporting using Excel.
+
+### 📚 Projects
+Explore my portfolio of data projects!
+
+Project 1: Netflix Data Analysis – Analysis of Netflix shows and movies, including production trends and actor frequency.
+
+### 🛠️ Tools
+
+- Language: SQL, Python
+- Database: SQL Server, PostgreSQL
+- Visualization: Power BI
+- Environment: Jupyter Notebook
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/tomasrpavon/)
